@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(15,15,15);
+    color: aliceblue;
+    font-family: "Roboto", "Noto", sans-serif;
+}
+a{text-decoration: none;}
+.main-container{
+    display:flex
+}
+.sidebar{
+    padding: 2%;
+}
+button{
+    border: none;
+}
+.sidebar ul{
+list-style-type:none;
+padding: 0;
+
+}
+.sidebar ul li{
+    padding: 10px;
+}
